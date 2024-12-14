@@ -21,6 +21,7 @@ public class PersonServiceDetailsImp implements UserDetailsService {
         if (person == null) {
             throw new UsernameNotFoundException("User not found with username: " + username);
         }
+
         return person;
     }
 }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/co-cinema/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/film-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/geteway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/person-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/co-cinema/ticket-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
